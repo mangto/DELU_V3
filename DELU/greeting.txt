@@ -1,0 +1,5 @@
+==============[ DELU V.3 ]==============
+    This Is Delu Version 3.0 Package
+  DELU Is ChatBot System In Kakao Talk
+         Made By GITHUB @mangto
+========================================

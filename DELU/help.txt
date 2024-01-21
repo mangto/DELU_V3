@@ -1,0 +1,39 @@
+How To Use DELU V3 Package
+
+1. Importing Package
+
+    import DELU
+
+
+2. Initialize Bot
+
+    bot = DELU.bot( CHATROOM ) -> None
+
+
+3. Send Message
+
+    bot.reply( MESSAGE, CHATROOM=None, EDITMODE=FME.edit ) -> bool
+        Send string:str to room:str with threading
+         * string: str
+         * room: str
+         * EditMethod: function -> str
+        
+        Return: bool
+
+         * If CHATROOM is None, Bot automatically sends message to self.room.
+         * If EDITMODE is None, Bot doesn't edit message.
+         * Bot automatically write log.
+
+    or
+
+    DELU.send_text( CHATROOM, MESSAGE )
+        * It sends message without editing. 
+        * It doesn't write log.
+
+
+4. FME Message edit
+
+    FME.edit( Message ) -> bool
+        * Automatically edit all FME contents.
+        * FME Grammar: ///FME:TYPE:ARGUMENTS///
+        * FME Types: Meal, Time, Date, Dday
