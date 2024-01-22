@@ -3,6 +3,10 @@ DELU Version 3.0
 
 How To Use DELU V3 Package
 
+## 0. Installing Other PIP Pakcages
+
+    $ pip install -r ./DELU/requirements.txt
+    
 ## 1. Importing Package
 
     import DELU
