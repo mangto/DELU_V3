@@ -21,8 +21,3 @@ __all__ = [
 ]
 
 # =========================================================
-
-GREETING :str
-with open(".\\DELU\\greeting.txt", "r", encoding="utf8") as file:
-    GREETING = file.read()
-print(GREETING)

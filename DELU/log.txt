@@ -188,3 +188,29 @@
 [REPLY SUCCEED] [2024-01-21 21:14:39.502514] e25b29f4-28d8-4a20-a20a-653a57afbac0:영재:새로운 공지사항이 없습니다!
 [BOT INITIALIZE] [2024-01-21 21:33:40.140458] 75dc70ee-b0b7-493c-b2e2-055ab457f142:영재
 [NOTIFICATION LOAD] [2024-01-21 21:33:40.140458] 75dc70ee-b0b7-493c-b2e2-055ab457f142:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 19:47:10.658731] 599c06de-ac5a-47d0-b9c2-ac88386c843e:델루
+[NOTIFICATION LOAD] [2024-01-23 19:47:10.675884] 599c06de-ac5a-47d0-b9c2-ac88386c843e:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:27:13.467515] 1b58bf56-b2fb-4bdf-b486-83430137c861:델루
+[NOTIFICATION LOAD] [2024-01-23 20:27:13.467515] 1b58bf56-b2fb-4bdf-b486-83430137c861:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:27:40.601431] 0f105986-fda3-48b7-b4a8-e2d8feb03b2a:델루
+[NOTIFICATION LOAD] [2024-01-23 20:27:40.601431] 0f105986-fda3-48b7-b4a8-e2d8feb03b2a:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:30:17.774020] c47d5b9f-2baa-4f2a-b3ba-07054dca03e7:델루
+[NOTIFICATION LOAD] [2024-01-23 20:30:17.774020] c47d5b9f-2baa-4f2a-b3ba-07054dca03e7:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:31:05.745784] 51c168f9-904f-4c67-a1a2-13f97b2aa1fe:델루
+[NOTIFICATION LOAD] [2024-01-23 20:31:05.745784] 51c168f9-904f-4c67-a1a2-13f97b2aa1fe:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:34:53.930612] d9865886-bafa-46f1-a859-54256191854a:델루
+[NOTIFICATION LOAD] [2024-01-23 20:34:53.930612] d9865886-bafa-46f1-a859-54256191854a:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:39:14.013749] 0dcc508d-1f27-4668-9494-27e1af409a4c:델루
+[NOTIFICATION LOAD] [2024-01-23 20:39:14.013749] 0dcc508d-1f27-4668-9494-27e1af409a4c:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:51:38.821310] f3e8a9be-6dba-4450-80ba-ac0d4c9b025b:델루
+[NOTIFICATION LOAD] [2024-01-23 20:51:38.821310] f3e8a9be-6dba-4450-80ba-ac0d4c9b025b:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:52:34.273946] caf44088-9b35-4798-a296-9ef238cdf4f3:델루
+[NOTIFICATION LOAD] [2024-01-23 20:52:34.273946] caf44088-9b35-4798-a296-9ef238cdf4f3:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:54:45.843424] 05ffa6e2-eeef-4b7f-8b05-ee97e90ea780:델루
+[NOTIFICATION LOAD] [2024-01-23 20:54:45.843424] 05ffa6e2-eeef-4b7f-8b05-ee97e90ea780:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:56:10.555402] ea97cfb7-a467-49f0-b34d-eab3757b718a:델루
+[NOTIFICATION LOAD] [2024-01-23 20:56:10.555402] ea97cfb7-a467-49f0-b34d-eab3757b718a:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 20:56:59.555771] d609a0a9-7d11-4c4b-b243-2965d5169b3d:델루
+[NOTIFICATION LOAD] [2024-01-23 20:56:59.555771] d609a0a9-7d11-4c4b-b243-2965d5169b3d:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 21:01:13.066119] 1856387a-5daf-49de-a6f3-e8c0f7222178:델루
+[NOTIFICATION LOAD] [2024-01-23 21:01:13.066119] 1856387a-5daf-49de-a6f3-e8c0f7222178:loaded notification from .\DELU\data\notification.json

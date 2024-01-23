@@ -1,6 +1,5 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-from pprint import pprint
 from json import load, dump
 
 import ssl

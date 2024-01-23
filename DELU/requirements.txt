@@ -1,0 +1,5 @@
+pywin32
+pygetwindow
+pywinauto
+bs4
+gspread

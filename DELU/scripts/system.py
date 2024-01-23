@@ -6,11 +6,22 @@ from DELU.scripts.bot import bot
 from DELU.scripts.server import *
 
 from threading import Thread
-import time, sys
+from multiprocessing import Process
+import time
+from oauth2client.service_account import ServiceAccountCredentials
+from gspread import authorize
+from json import dump, load
+
+scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+credentials = ServiceAccountCredentials.from_json_keyfile_name('.\\DELU\\data\\fourth-cirrus-301609-ed9b67be5c94.json', scope)
+gc = authorize(credentials)
+with open(".\\DELU\\data\\sheetlinks.json", "r", encoding="utf8") as file: urls = load(file)
 
 class system:
 
     logger = logger()
+    UpdateCycle = 5 * 60 # update every FIVE minute
+    LastUpdate = time.time() - UpdateCycle
 
     def __init__(self, rooms:list[str]=[]) -> None:
         
@@ -19,9 +30,21 @@ class system:
         Thread(target=start).start()
 
         pass
+    
+    def auto_refresher_no_multiprocessing() -> None:
+        sheets = {key:gc.open_by_url(urls[key]).worksheet('일정') for key in urls}
+        while True:
+            current = time.time()
 
-    def refresh() -> None:
-        meal.save()
-        news.load()
-        spreadsheet.update()
-        return
+            if (current - system.LastUpdate < system.UpdateCycle): 
+                time.sleep(1)
+                continue
+
+            meal.save()
+            news.load()
+            spreadsheet.update(sheets)
+            system.LastUpdate = current
+        
+    def auto_refresher() -> None:
+        p = Process(target = system.auto_refresher_no_multiprocessing)
+        p.start()

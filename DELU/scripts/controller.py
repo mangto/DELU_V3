@@ -15,7 +15,7 @@ class controller:
     def command(self) -> None:
         try:
             while True:
-                message = input(">> ")
+                message = input(" >>> ")
                 self.client_socket.send(message.encode('utf-8'))
 
         except KeyboardInterrupt:

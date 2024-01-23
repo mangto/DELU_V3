@@ -1,15 +1,10 @@
 import socket
 import threading
 
-client_ids = {}  # Mapping of client sockets to their IDs
+client_ids = {}
 
 def handle_client(client_socket, address):
-    # print(f"Accepted connection from {address}")
-
-    # Ask the client to log in with an ID
     client_id = client_socket.recv(1024).decode('utf-8')
-
-    # print(f"Client {client_id} logged in from {address}")
     client_ids[client_socket] = client_id
 
     while True:
@@ -19,14 +14,10 @@ def handle_client(client_socket, address):
                 break
 
             message = data.decode('utf-8')
-            # print(f"Received message from {client_id}: {message}")
-
-            # Check if the message is intended for a specific client
             if message.startswith('@'):
                 recipient_id, message = message.split(' ', 1)
                 send_direct_message(recipient_id[1:], message, client_socket)
             else:
-                # Broadcast the message to all connected clients
                 broadcast(message, client_socket)
 
         except Exception as e:
@@ -50,12 +41,11 @@ def send_direct_message(recipient_id, message, sender_socket):
         if client_id == recipient_id:
             try:
                 client.send(message.encode('utf-8'))
-                break  # Message sent, exit the loop
+                break
             except Exception as e:
                 print(f"Error sending private message to {recipient_id}: {e}")
 
 def start():
-    # Set up the server
     host = '0.0.0.0'
     port = 12345
 
@@ -66,10 +56,8 @@ def start():
     print(f"Server listening on {host}:{port}")
 
 
-    # Main server loop
     while True:
         client_socket, address = server_socket.accept()
 
-        # Start a new thread to handle the client
         client_thread = threading.Thread(target=handle_client, args=(client_socket, address))
         client_thread.start()
