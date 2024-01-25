@@ -214,3 +214,63 @@
 [NOTIFICATION LOAD] [2024-01-23 20:56:59.555771] d609a0a9-7d11-4c4b-b243-2965d5169b3d:loaded notification from .\DELU\data\notification.json
 [BOT INITIALIZE] [2024-01-23 21:01:13.066119] 1856387a-5daf-49de-a6f3-e8c0f7222178:델루
 [NOTIFICATION LOAD] [2024-01-23 21:01:13.066119] 1856387a-5daf-49de-a6f3-e8c0f7222178:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 21:14:37.412958] 3f26240b-1762-45f2-9d78-0365aac72b07:영재
+[NOTIFICATION LOAD] [2024-01-23 21:14:37.412958] 3f26240b-1762-45f2-9d78-0365aac72b07:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-01-23 21:14:54.938596] 3f26240b-1762-45f2-9d78-0365aac72b07:영재:음
+[BOT INITIALIZE] [2024-01-23 21:15:13.208365] 6200d362-6b6c-465d-a442-921b51182a7d:영재
+[NOTIFICATION LOAD] [2024-01-23 21:15:13.208365] 6200d362-6b6c-465d-a442-921b51182a7d:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-23 21:15:22.967645] 76bf8a91-b6bf-448e-bc4b-1a9757cbfd78:영재
+[NOTIFICATION LOAD] [2024-01-23 21:15:22.967645] 76bf8a91-b6bf-448e-bc4b-1a9757cbfd78:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-01-23 21:15:32.015549] 76bf8a91-b6bf-448e-bc4b-1a9757cbfd78:영재:ㅗㅑ
+[REPLY SUCCEED] [2024-01-23 21:15:35.160580] 76bf8a91-b6bf-448e-bc4b-1a9757cbfd78:영재:흐으으으으ㅡㅁ
+[REPLY SUCCEED] [2024-01-23 21:15:41.886326] 76bf8a91-b6bf-448e-bc4b-1a9757cbfd78:영재:흐으으으음
+[REPLY SUCCEED] [2024-01-23 21:15:45.551110] 76bf8a91-b6bf-448e-bc4b-1a9757cbfd78:영재:흐으으으으으으으으으음
+[REPLY SUCCEED] [2024-01-23 21:15:55.468725] 76bf8a91-b6bf-448e-bc4b-1a9757cbfd78:영재:흐으음
+[BOT INITIALIZE] [2024-01-23 21:16:49.212880] 98c85d59-7eb2-4105-9a4c-62b9380f2ef7:영재
+[NOTIFICATION LOAD] [2024-01-23 21:16:49.228507] 98c85d59-7eb2-4105-9a4c-62b9380f2ef7:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-24 08:43:50.338905] 1ebd8d63-f90c-4efc-a656-46155178f4b4:영재
+[NOTIFICATION LOAD] [2024-01-24 08:43:50.338905] 1ebd8d63-f90c-4efc-a656-46155178f4b4:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:07:27.237281] 63dfe51d-9a17-4c77-8ba2-b678af9e8d4c:영재
+[NOTIFICATION LOAD] [2024-01-25 22:07:27.237281] 63dfe51d-9a17-4c77-8ba2-b678af9e8d4c:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:07:48.576769] 13ec56a7-5998-4306-aeaa-65fc0bfe5beb:영재
+[NOTIFICATION LOAD] [2024-01-25 22:07:48.576769] 13ec56a7-5998-4306-aeaa-65fc0bfe5beb:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:08:32.456616] e339a765-3028-4998-a8de-4830eef53771:영재
+[NOTIFICATION LOAD] [2024-01-25 22:08:32.456616] e339a765-3028-4998-a8de-4830eef53771:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:09:04.943654] 5fbb824e-5821-467d-a642-728f931be633:영재
+[NOTIFICATION LOAD] [2024-01-25 22:09:04.943654] 5fbb824e-5821-467d-a642-728f931be633:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:10:25.120571] 55a2fc7b-298d-49a4-8107-87d7101a559f:영재
+[NOTIFICATION LOAD] [2024-01-25 22:10:25.128140] 55a2fc7b-298d-49a4-8107-87d7101a559f:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:23:00.113174] d342fbfd-7a53-418a-b8da-dd3d7373e529:영재
+[NOTIFICATION LOAD] [2024-01-25 22:23:00.116609] d342fbfd-7a53-418a-b8da-dd3d7373e529:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:23:43.790665] f11db175-9016-49f0-ad91-bde8db05f5dd:영재
+[NOTIFICATION LOAD] [2024-01-25 22:23:43.790665] f11db175-9016-49f0-ad91-bde8db05f5dd:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:23:56.767734] d3598c21-42e3-4638-b47b-9ee9040cb184:영재
+[NOTIFICATION LOAD] [2024-01-25 22:23:56.783427] d3598c21-42e3-4638-b47b-9ee9040cb184:loaded notification from .\DELU\data\notification.json
+[REPLY FAILED] [2024-01-25 22:23:57.305971] d3598c21-42e3-4638-b47b-9ee9040cb184:영재:test notification\n///FME:time///\n\n///FME:meal///\n\n///FME:news:10///
+[EXCEPTION] [2024-01-25 22:23:57.305971] list index out of range
+[BOT INITIALIZE] [2024-01-25 22:34:45.025645] 1924ff66-76d2-4e45-9134-6b00dd299bce:영재
+[NOTIFICATION LOAD] [2024-01-25 22:34:45.028471] 1924ff66-76d2-4e45-9134-6b00dd299bce:loaded notification from .\DELU\data\notification.json
+[REPLY FAILED] [2024-01-25 22:34:45.545217] 1924ff66-76d2-4e45-9134-6b00dd299bce:영재:test notification\n///FME:time///\n\n///FME:meal///\n\n///FME:news:10///
+[EXCEPTION] [2024-01-25 22:34:45.545217] list index out of range
+[BOT INITIALIZE] [2024-01-25 22:35:07.662350] dfc462a7-2910-4b9f-ab8c-2e2630f285db:영재
+[NOTIFICATION LOAD] [2024-01-25 22:35:07.668578] dfc462a7-2910-4b9f-ab8c-2e2630f285db:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:35:38.581246] 960f30de-9d83-469d-8a0c-c0c92474a846:영재
+[NOTIFICATION LOAD] [2024-01-25 22:35:38.581246] 960f30de-9d83-469d-8a0c-c0c92474a846:loaded notification from .\DELU\data\notification.json
+[REPLY FAILED] [2024-01-25 22:35:39.104459] 960f30de-9d83-469d-8a0c-c0c92474a846:영재:test notification\n///FME:time///\n\n///FME:meal///\n\n///FME:news:10///
+[EXCEPTION] [2024-01-25 22:35:39.104459] list index out of range
+[BOT INITIALIZE] [2024-01-25 22:36:54.509329] 54b36f1f-b073-4dc8-8306-86603222db9b:영재
+[NOTIFICATION LOAD] [2024-01-25 22:36:54.527198] 54b36f1f-b073-4dc8-8306-86603222db9b:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:37:42.103646] ed154234-07bf-486b-8d20-eb9811f43cdb:영재
+[NOTIFICATION LOAD] [2024-01-25 22:37:42.119214] ed154234-07bf-486b-8d20-eb9811f43cdb:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-01-25 22:37:43.438377] ed154234-07bf-486b-8d20-eb9811f43cdb:영재:test notification\n2024-01-25 22:37:42.640420\n\n급식이 없거나 오류가 발생했습니다\n\n[01.16] 2024 학생보호인력(학교안전지킴이) 자원봉사자 모집공고
+[BOT INITIALIZE] [2024-01-25 22:39:13.027213] aa8f2c91-61c2-4dac-ace4-4cea3b0cfff6:영재
+[NOTIFICATION LOAD] [2024-01-25 22:39:13.042759] aa8f2c91-61c2-4dac-ace4-4cea3b0cfff6:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:39:13.042759] 01d84b37-a046-4f02-ac8d-6a120b347fd4:델루
+[NOTIFICATION LOAD] [2024-01-25 22:39:13.042759] 01d84b37-a046-4f02-ac8d-6a120b347fd4:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-01-25 22:39:14.266953] 01d84b37-a046-4f02-ac8d-6a120b347fd4:델루:test notification\n2024-01-25 22:39:13.567756\n\n급식이 없거나 오류가 발생했습니다\n\n[01.16] 2024 학생보호인력(학교안전지킴이) 자원봉사자 모집공고
+[BOT INITIALIZE] [2024-01-25 22:48:38.897424] dbfd10bb-56ce-4447-b2b9-ffeba09233ff:영재
+[NOTIFICATION LOAD] [2024-01-25 22:48:38.904075] dbfd10bb-56ce-4447-b2b9-ffeba09233ff:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-01-25 22:48:38.904075] d61102bf-16de-4e7f-8efe-a4b1950be10d:델루
+[NOTIFICATION LOAD] [2024-01-25 22:48:38.904075] d61102bf-16de-4e7f-8efe-a4b1950be10d:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-01-25 22:48:40.789600] d61102bf-16de-4e7f-8efe-a4b1950be10d:델루:test notification\n2024-01-25 22:48:39.423693\n\n급식이 없거나 오류가 발생했습니다\n\n[01.16] 2024 학생보호인력(학교안전지킴이) 자원봉사자 모집공고
+[REPLY SUCCEED] [2024-01-25 22:48:40.984977] dbfd10bb-56ce-4447-b2b9-ffeba09233ff:영재:test notification\n2024-01-25 22:48:39.423693\n\n급식이 없거나 오류가 발생했습니다\n\n[01.16] 2024 학생보호인력(학교안전지킴이) 자원봉사자 모집공고

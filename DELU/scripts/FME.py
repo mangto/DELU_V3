@@ -89,7 +89,7 @@ class FME:
         def meal(arg:list) -> str:
             date:str
             if (len(arg) == 0): date = "today"
-            date = arg[0]
+            else: date = arg[0]
             if (date == "today"):
                 today = datetime.now()
                 date = f"{today.month}/{today.day}"

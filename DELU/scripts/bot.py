@@ -1,20 +1,25 @@
 from DELU.scripts.basicfunc import *
 from DELU.scripts.FME import FME
 from DELU.scripts.logger import logger
+from DELU.scripts.notification import notification
 
+from datetime import datetime
 from threading import Thread
 from uuid import uuid4
 from os.path import isfile
 from json import load
+from time import sleep
 import socket, sys
 
 
 class bot:
-    def __init__(self, room:str, notification:str=".\\DELU\\data\\notification.json") -> None:
+    def __init__(self, room:str, lps:int=5, notification:str=".\\DELU\\data\\notification.json") -> None:
         self.room = room
         self.uuid = str(uuid4())
         self.logger = logger()
-        self.notification = None
+        self.notification :list[dict] = None
+        self.lps = lps
+        self.lps_sleep = 1/lps
 
         self.logger.write(f"{self.uuid}:{self.room}", "BOT INITIALIZE")
 
@@ -26,7 +31,9 @@ class bot:
 
             self.logger.write(f"{self.uuid}:loaded notification from {notification}", "NOTIFICATION LOAD")
 
-        else: self.logger.write(f"{self.uuid}:failed loading notification from {notification}", "NOTIFICATION LOADING FAILED")
+        else:
+            self.notification = []
+            self.logger.write(f"{self.uuid}:failed loading notification from {notification}", "NOTIFICATION LOADING FAILED")
 
         Thread(target=self.loop).start()
         pass
@@ -44,6 +51,16 @@ class bot:
 
         while True:
             try:
+
+                # check notification
+                current = datetime.now()
+                for notion in self.notification:
+                    if (not notification.check(notion, current, self.room)): continue
+                    self.reply(notion.get("string", ""))
+
+
+                # receive data
+
                 data = client_socket.recv(1024)
                 if not data:
                     break
@@ -56,6 +73,8 @@ class bot:
                 print(f"Error receiving message: {e}")
                 sys.exit()
                 break
+
+            sleep(self.lps_sleep)
 
     def reply(self, string:str, room:str=None, EditMethod=FME.edit) -> bool:
         '''

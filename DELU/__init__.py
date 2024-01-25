@@ -8,6 +8,7 @@ from DELU.scripts.system import system
 from DELU.scripts.sheet import spreadsheet
 from DELU.scripts.server import *
 from DELU.scripts.controller import *
+from DELU.scripts.notification import notification
 
 __all__ = [
     "open_chatroom", "send_text", "PostKeyEx", "SendReturn", "copy_chatroom",
@@ -18,6 +19,7 @@ __all__ = [
     "news",
     "system",
     "spreadsheet",
+    "notification"
 ]
 
 # =========================================================

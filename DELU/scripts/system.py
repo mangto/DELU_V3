@@ -20,7 +20,7 @@ with open(".\\DELU\\data\\sheetlinks.json", "r", encoding="utf8") as file: urls 
 class system:
 
     logger = logger()
-    UpdateCycle = 5 * 60 # update every FIVE minute
+    UpdateCycle = 5*60 # update every FIVE minute
     LastUpdate = time.time() - UpdateCycle
 
     def __init__(self, rooms:list[str]=[]) -> None:

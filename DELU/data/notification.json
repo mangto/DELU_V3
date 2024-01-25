@@ -1,7 +1,8 @@
 [
     {
-        "time":"",
-        "string":"",
+        "tag":"test",
+        "time":"22:48",
+        "string":"test notification\n///FME:time///\n\n///FME:meal///\n\n///FME:news:10///",
         "weekday":[0, 1, 2, 3, 4, 5, 6]
     }
 ]
