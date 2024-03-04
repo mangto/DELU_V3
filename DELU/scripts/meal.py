@@ -1,9 +1,13 @@
-from urllib.request import urlopen
+import requests
 from bs4 import BeautifulSoup
 import re, json
 
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
+
+
+url="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EB%B3%B4%EC%A0%95%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90+%EA%B8%89%EC%8B%9D"
+
 
 def clean(food):
     food = [f for f in food if f != '' and f != "TODAY"]
@@ -19,8 +23,7 @@ def clean(food):
 def save(Return=False):
     current = json.load(open(".\\DELU\\data\\meal.json", encoding='utf8'))
 
-    url="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EB%B3%B4%EC%A0%95%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90+%EA%B8%89%EC%8B%9D"
-    req = urlopen(url)
+    req = requests.get(url).text
     soup = BeautifulSoup(req, 'html.parser')
     foods = soup.find_all("div", "timeline_box")
 

@@ -42,7 +42,8 @@ class system:
 
             meal.save()
             news.load()
-            spreadsheet.update(sheets)
+            try: spreadsheet.update(sheets)
+            except: pass
             system.LastUpdate = current
         
     def auto_refresher() -> None:

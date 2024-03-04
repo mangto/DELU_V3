@@ -1,0 +1,1 @@
+📅 ///FME:date/// 알림\n\n📖 오늘의 시간표\n///FME:schedule:1///\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:1///

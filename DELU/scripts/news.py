@@ -28,10 +28,11 @@ class news:
         
         for n in new:
             description = [c for c in n.text.replace("\t", "").splitlines() if c != '']
+            date = [d for d in description if d[:3] == '202' and d[4] == '.'][0]
             description = {
                 "title":description[1],
                 "author":description[3],
-                "date":description[5]
+                "date":date
             }
 
             if (description not in result): result.append(description)

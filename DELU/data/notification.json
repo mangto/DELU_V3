@@ -1,8 +1,8 @@
 [
     {
-        "tag":"test",
-        "time":"22:48",
-        "string":"test notification\n///FME:time///\n\n///FME:meal///\n\n///FME:news:10///",
+        "tag":"daily",
+        "time":"7:30",
+        "string":"📅 ///FME:date/// 알림\n\n📖 오늘의 시간표\n///FME:schedule:1///\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:1///",
         "weekday":[0, 1, 2, 3, 4, 5, 6]
     }
 ]

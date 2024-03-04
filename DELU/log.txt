@@ -274,3 +274,109 @@
 [NOTIFICATION LOAD] [2024-01-25 22:48:38.904075] d61102bf-16de-4e7f-8efe-a4b1950be10d:loaded notification from .\DELU\data\notification.json
 [REPLY SUCCEED] [2024-01-25 22:48:40.789600] d61102bf-16de-4e7f-8efe-a4b1950be10d:델루:test notification\n2024-01-25 22:48:39.423693\n\n급식이 없거나 오류가 발생했습니다\n\n[01.16] 2024 학생보호인력(학교안전지킴이) 자원봉사자 모집공고
 [REPLY SUCCEED] [2024-01-25 22:48:40.984977] dbfd10bb-56ce-4447-b2b9-ffeba09233ff:영재:test notification\n2024-01-25 22:48:39.423693\n\n급식이 없거나 오류가 발생했습니다\n\n[01.16] 2024 학생보호인력(학교안전지킴이) 자원봉사자 모집공고
+[BOT INITIALIZE] [2024-03-03 21:45:38.936212] ae8eb7ce-6b1f-4c6b-88e4-4abe9f613b25:영재
+[NOTIFICATION LOAD] [2024-03-03 21:45:38.940451] ae8eb7ce-6b1f-4c6b-88e4-4abe9f613b25:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-03 21:45:38.940451] 06fbe533-fd76-4fb2-8aa5-e05ad0bfd3e7:델루
+[NOTIFICATION LOAD] [2024-03-03 21:45:38.940451] 06fbe533-fd76-4fb2-8aa5-e05ad0bfd3e7:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-03 21:45:38.940451] f9912957-44fe-4ae5-81b9-38dfb6ae4cb3:배수진
+[NOTIFICATION LOAD] [2024-03-03 21:45:38.940451] f9912957-44fe-4ae5-81b9-38dfb6ae4cb3:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-03 21:45:49.193104] f9912957-44fe-4ae5-81b9-38dfb6ae4cb3:배수진:📅 3월 3일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)\n\n📢 과제\n[3.4]\ntest notification for 2-5
+[REPLY SUCCEED] [2024-03-03 21:45:49.491800] 06fbe533-fd76-4fb2-8aa5-e05ad0bfd3e7:델루:📅 3월 3일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)\n\n📢 과제\n[3.4]\ntest notification for 2-5
+[REPLY SUCCEED] [2024-03-03 21:45:49.491800] ae8eb7ce-6b1f-4c6b-88e4-4abe9f613b25:영재:📅 3월 3일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)\n\n📢 과제\n[3.4]\ntest notification for 2-5
+[REPLY SUCCEED] [2024-03-03 21:46:16.888608] f9912957-44fe-4ae5-81b9-38dfb6ae4cb3:배수진:📅 3월 3일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)\n\n📢 과제\n[3.4]\ntest notification for 2-5
+[BOT INITIALIZE] [2024-03-04 23:12:14.374312] 910cbf02-f7c8-4e98-b38c-24914ea87c27:영재
+[NOTIFICATION LOAD] [2024-03-04 23:12:14.384254] 910cbf02-f7c8-4e98-b38c-24914ea87c27:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:12:14.385254] faf1fe4a-077b-44f3-a960-46c377ebbaf8:델루
+[NOTIFICATION LOAD] [2024-03-04 23:12:14.385254] faf1fe4a-077b-44f3-a960-46c377ebbaf8:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:12:21.394306] 910cbf02-f7c8-4e98-b38c-24914ea87c27:영재:📅 3월 4일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)\n\n📢 과제\nFME Error: Unknown Class ID
+[REPLY FAILED] [2024-03-04 23:12:53.775466] 910cbf02-f7c8-4e98-b38c-24914ea87c27:영재:📅 ///FME:date/// 알림\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:%room%///
+[EXCEPTION] [2024-03-04 23:12:53.776468] invalid literal for int() with base 10: '등록일'
+[REPLY FAILED] [2024-03-04 23:12:53.777437] faf1fe4a-077b-44f3-a960-46c377ebbaf8:델루:📅 ///FME:date/// 알림\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:%room%///
+[EXCEPTION] [2024-03-04 23:12:53.777437] invalid literal for int() with base 10: '등록일'
+[REPLY FAILED] [2024-03-04 23:13:24.091460] 910cbf02-f7c8-4e98-b38c-24914ea87c27:영재:📅 ///FME:date/// 알림\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:%room%///
+[EXCEPTION] [2024-03-04 23:13:24.091460] invalid literal for int() with base 10: '등록일'
+[BOT INITIALIZE] [2024-03-04 23:13:34.979608] b0c89055-d015-4108-a960-376e9fb1ecb8:영재
+[NOTIFICATION LOAD] [2024-03-04 23:13:34.979608] b0c89055-d015-4108-a960-376e9fb1ecb8:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:13:34.980612] 67a3b587-adf4-410f-a783-101ea2930e7a:델루
+[NOTIFICATION LOAD] [2024-03-04 23:13:34.980612] 67a3b587-adf4-410f-a783-101ea2930e7a:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:13:50.140763] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재
+[NOTIFICATION LOAD] [2024-03-04 23:13:50.140763] 808b6213-f0e6-4daa-ba89-0aabedfd3512:loaded notification from .\DELU\data\notification.json
+[REPLY FAILED] [2024-03-04 23:13:54.307922] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:📅 ///FME:date/// 알림\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:20///\n\n📢 과제\n///FME:sheet:%room%///
+[EXCEPTION] [2024-03-04 23:13:54.307922] invalid literal for int() with base 10: '등록일'
+[REPLY SUCCEED] [2024-03-04 23:14:04.973558] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:hi
+[REPLY FAILED] [2024-03-04 23:14:17.173868] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:📅 ///FME:date/// 알림\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:%room%///
+[EXCEPTION] [2024-03-04 23:14:17.174830] invalid literal for int() with base 10: '등록일'
+[REPLY SUCCEED] [2024-03-04 23:14:34.092612] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:?
+[REPLY SUCCEED] [2024-03-04 23:14:46.337713] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:3월 4일
+[REPLY SUCCEED] [2024-03-04 23:14:51.299678] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:급식이 없거나 오류가 발생했습니다
+[REPLY FAILED] [2024-03-04 23:14:56.635178] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:///FME:news:10///
+[EXCEPTION] [2024-03-04 23:14:56.635178] invalid literal for int() with base 10: '등록일'
+[REPLY FAILED] [2024-03-04 23:15:03.750723] 808b6213-f0e6-4daa-ba89-0aabedfd3512:영재:///FME:news:20///
+[EXCEPTION] [2024-03-04 23:15:03.751722] invalid literal for int() with base 10: '등록일'
+[BOT INITIALIZE] [2024-03-04 23:17:32.199074] 5eabaa0b-bc6f-4fc5-babe-8cc7eb7cf772:영재
+[NOTIFICATION LOAD] [2024-03-04 23:17:32.199074] 5eabaa0b-bc6f-4fc5-babe-8cc7eb7cf772:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:17:41.261719] 5eabaa0b-bc6f-4fc5-babe-8cc7eb7cf772:영재:[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식
+[BOT INITIALIZE] [2024-03-04 23:18:59.704122] f7d0d8b7-eca6-4219-b38f-794c5aa9b91f:영재
+[NOTIFICATION LOAD] [2024-03-04 23:18:59.704122] f7d0d8b7-eca6-4219-b38f-794c5aa9b91f:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:19:08.819493] f7d0d8b7-eca6-4219-b38f-794c5aa9b91f:영재:[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)
+[BOT INITIALIZE] [2024-03-04 23:19:42.056018] b20bb088-fcee-43b4-a48d-e61d0da5b807:영재
+[NOTIFICATION LOAD] [2024-03-04 23:19:42.056018] b20bb088-fcee-43b4-a48d-e61d0da5b807:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:19:47.497827] b20bb088-fcee-43b4-a48d-e61d0da5b807:영재:[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)
+[BOT INITIALIZE] [2024-03-04 23:20:25.084850] c940b928-b70c-446b-8313-96409b20008d:영재
+[NOTIFICATION LOAD] [2024-03-04 23:20:25.084850] c940b928-b70c-446b-8313-96409b20008d:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:20:31.089128] c940b928-b70c-446b-8313-96409b20008d:영재:[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)
+[BOT INITIALIZE] [2024-03-04 23:21:00.872511] c12117c8-22b9-4b00-9f0c-60f45f9dac9e:영재
+[NOTIFICATION LOAD] [2024-03-04 23:21:00.872511] c12117c8-22b9-4b00-9f0c-60f45f9dac9e:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:21:05.268865] fd0597c4-45fc-4a64-aa80-263833da6337:영재
+[NOTIFICATION LOAD] [2024-03-04 23:21:05.268865] fd0597c4-45fc-4a64-aa80-263833da6337:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:21:10.137297] fd0597c4-45fc-4a64-aa80-263833da6337:영재:[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n[02.21] 2024년 학교장허가 교외체험학습 및 가정학습 양식\n\n[02.20] 2024년 초·중·고 신입생 입학준비금 신청 안내\n\n[02.13] 2024학년도 교과서 배부 안내 (신입생, 2학년, 3학년)
+[BOT INITIALIZE] [2024-03-04 23:22:14.816810] 36549a6b-da2f-46a3-874a-0f6cc16d2fcb:영재
+[NOTIFICATION LOAD] [2024-03-04 23:22:14.816810] 36549a6b-da2f-46a3-874a-0f6cc16d2fcb:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:22:22.260288] 36549a6b-da2f-46a3-874a-0f6cc16d2fcb:영재:[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식
+[BOT INITIALIZE] [2024-03-04 23:23:42.403660] 783f9d81-985c-45a4-9480-e2c9ffbb7aaf:영재
+[NOTIFICATION LOAD] [2024-03-04 23:23:42.403660] 783f9d81-985c-45a4-9480-e2c9ffbb7aaf:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:23:43.340380] 783f9d81-985c-45a4-9480-e2c9ffbb7aaf:영재:hi
+[REPLY SUCCEED] [2024-03-04 23:23:49.643802] 783f9d81-985c-45a4-9480-e2c9ffbb7aaf:영재:[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식
+[REPLY SUCCEED] [2024-03-04 23:24:03.130407] 783f9d81-985c-45a4-9480-e2c9ffbb7aaf:영재:[03.04] 2024학년도 학사일정 안내\n\n[03.04] 2024 학부모총회안내 가정통신문\n\n[03.04] 2024학년도 1,2학년 동아리 등록 신청 안내\n\n[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식
+[BOT INITIALIZE] [2024-03-04 23:24:20.598326] add891d9-91e0-49fa-838b-c8116761e08b:영재
+[NOTIFICATION LOAD] [2024-03-04 23:24:20.598326] add891d9-91e0-49fa-838b-c8116761e08b:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:24:40.836320] add891d9-91e0-49fa-838b-c8116761e08b:영재:📅 3월 4일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n[03.04] 2024학년도 학사일정 안내\n\n[03.04] 2024 학부모총회안내 가정통신문\n\n[03.04] 2024학년도 1,2학년 동아리 등록 신청 안내\n\n[02.29] 2024학년도 1학기 임시시간표 안내\n\n[02.28] 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n\n[02.28] 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n[3.4]\ntest notification for 2-1
+[BOT INITIALIZE] [2024-03-04 23:33:15.708618] 2205233b-a729-4cf3-a661-72e8170c359a:영재
+[NOTIFICATION LOAD] [2024-03-04 23:33:15.708618] 2205233b-a729-4cf3-a661-72e8170c359a:loaded notification from .\DELU\data\notification.json
+[REPLY FAILED] [2024-03-04 23:33:32.587844] 2205233b-a729-4cf3-a661-72e8170c359a:영재:📅 ///FME:date/// 알림\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:5///
+[EXCEPTION] [2024-03-04 23:33:32.587844] local variable 'date' referenced before assignment
+[REPLY SUCCEED] [2024-03-04 23:33:50.053837] 2205233b-a729-4cf3-a661-72e8170c359a:영재:yeah
+[REPLY FAILED] [2024-03-04 23:33:53.184760] 2205233b-a729-4cf3-a661-72e8170c359a:영재:📅 ///FME:date/// 알림\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 새로운 공지사항\n///FME:news:10///\n\n📢 과제\n///FME:sheet:5///
+[EXCEPTION] [2024-03-04 23:33:53.184760] local variable 'date' referenced before assignment
+[BOT INITIALIZE] [2024-03-04 23:36:26.410972] 013d3607-5cde-4f6c-abb7-4b8e39797dfa:영재
+[NOTIFICATION LOAD] [2024-03-04 23:36:26.410972] 013d3607-5cde-4f6c-abb7-4b8e39797dfa:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:36:30.973724] 013d3607-5cde-4f6c-abb7-4b8e39797dfa:영재:📅 3월 4일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n[3.4]\ntest notification for 2-5
+[BOT INITIALIZE] [2024-03-04 23:40:51.109251] f3d55e1b-2859-4e0e-bcd5-c31637527173:영재
+[NOTIFICATION LOAD] [2024-03-04 23:40:51.109251] f3d55e1b-2859-4e0e-bcd5-c31637527173:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:40:53.465414] f3d55e1b-2859-4e0e-bcd5-c31637527173:영재:📅 3월 4일 알림\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[BOT INITIALIZE] [2024-03-04 23:49:56.424773] 620bc650-5b71-44b2-bd7b-83a74ba493e7:영재
+[NOTIFICATION LOAD] [2024-03-04 23:49:56.424773] 620bc650-5b71-44b2-bd7b-83a74ba493e7:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:50:03.571193] eae5c9bb-4882-4d35-86a7-02f04176f975:영재
+[NOTIFICATION LOAD] [2024-03-04 23:50:03.571193] eae5c9bb-4882-4d35-86a7-02f04176f975:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:50:05.793876] eae5c9bb-4882-4d35-86a7-02f04176f975:영재:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[BOT INITIALIZE] [2024-03-04 23:51:37.184794] c57c4246-5bac-4c99-a40f-cec1c912173f:영재
+[NOTIFICATION LOAD] [2024-03-04 23:51:37.184794] c57c4246-5bac-4c99-a40f-cec1c912173f:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:51:40.623047] c57c4246-5bac-4c99-a40f-cec1c912173f:영재:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[REPLY SUCCEED] [2024-03-04 23:52:14.576338] c57c4246-5bac-4c99-a40f-cec1c912173f:영재:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[REPLY SUCCEED] [2024-03-04 23:52:28.643133] c57c4246-5bac-4c99-a40f-cec1c912173f:영재:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[REPLY SUCCEED] [2024-03-04 23:52:32.536361] c57c4246-5bac-4c99-a40f-cec1c912173f:영재:hi
+[REPLY SUCCEED] [2024-03-04 23:52:35.695126] c57c4246-5bac-4c99-a40f-cec1c912173f:영재:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[BOT INITIALIZE] [2024-03-04 23:54:22.485570] 6a3b2276-0587-44e5-8396-83ac6321b538:영재
+[NOTIFICATION LOAD] [2024-03-04 23:54:22.485570] 6a3b2276-0587-44e5-8396-83ac6321b538:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:55:16.333994] 6a3b2276-0587-44e5-8396-83ac6321b538:영재:hi
+[REPLY SUCCEED] [2024-03-04 23:55:17.514354] 6a3b2276-0587-44e5-8396-83ac6321b538:영재:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[BOT INITIALIZE] [2024-03-04 23:56:54.786607] 135b290c-a69d-45f8-8095-290921c77693:영재
+[NOTIFICATION LOAD] [2024-03-04 23:56:54.786607] 135b290c-a69d-45f8-8095-290921c77693:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:56:54.786607] 6dbd0249-02a3-4929-b4a7-7859d0d40ae1:ㅌㅅㅌ
+[NOTIFICATION LOAD] [2024-03-04 23:56:54.786607] 6dbd0249-02a3-4929-b4a7-7859d0d40ae1:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:57:00.126537] b96a537e-2c1b-4cc7-b22d-6ba38019ba31:영재
+[NOTIFICATION LOAD] [2024-03-04 23:57:00.142166] b96a537e-2c1b-4cc7-b22d-6ba38019ba31:loaded notification from .\DELU\data\notification.json
+[BOT INITIALIZE] [2024-03-04 23:57:00.142166] 457371ac-a3cc-435d-806d-0b6410727aa4:ㅌㅅㅌ
+[NOTIFICATION LOAD] [2024-03-04 23:57:00.142166] 457371ac-a3cc-435d-806d-0b6410727aa4:loaded notification from .\DELU\data\notification.json
+[REPLY SUCCEED] [2024-03-04 23:57:01.817407] 457371ac-a3cc-435d-806d-0b6410727aa4:ㅌㅅㅌ:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
+[REPLY SUCCEED] [2024-03-04 23:57:01.880510] b96a537e-2c1b-4cc7-b22d-6ba38019ba31:영재:📅 3월 4일 알림\n\n📖 오늘의 시간표\n수1, 문학, Z, 영1, 운건, 기하, 자율\n\n🍖 오늘의 급식\n급식이 없거나 오류가 발생했습니다\n\n🔔 새로운 공지사항\n [03.04]\n  • 2024학년도 학사일정 안내\n  • 2024 학부모총회안내 가정통신문\n  • 2024학년도 1,2학년 동아리 등록 신청 안내\n [02.29]\n  • 2024학년도 1학기 임시시간표 안내\n [02.28]\n  • 2024학년도 신입생, 2학년, 3학년 신반 번호 확인 안내\n  • 2024 학생 개인  봉사 활동 관련 양식\n\n📢 과제\n [03.04]\n  • test notification for 2-1
