@@ -1,0 +1,8 @@
+[
+    {
+        "tag":"daily",
+        "time":"7:30",
+        "string":"📅 ///FME:date/// 알림\n\n중간고사 ///FME:dday:2024/04/22///\n\n📖 오늘의 시간표\n///FME:schedule:2///\n\n🍖 오늘의 급식\n///FME:meal///\n\n🔔 통합공지사항 및 가정통신문\n///FME:news:2///\n\n📢 과제\n///FME:sheet:1///\n\n과제 추가: bit.ly/3ViQiMv\nGithub: @mangto/DELU_V3",
+        "weekday":[0, 1, 2, 3, 4]
+    }
+]

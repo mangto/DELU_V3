@@ -1,38 +1,59 @@
-import requests
-from bs4 import BeautifulSoup
-import re, json
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import json
 
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
-url="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EB%B3%B4%EC%A0%95%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90+%EA%B8%89%EC%8B%9D"
+url = "https://school.iamservice.net/organization/20019/group/2093903"
 
+def get():
+    driver = webdriver.Chrome()
+    driver.get(url)
+    bx_cont = [c.text for c in driver.find_elements(By.CLASS_NAME, 'bx_cont')]
+    driver.quit()
+    return bx_cont
 
-def clean(food):
-    food = [f for f in food if f != '' and f != "TODAY"]
+def clean(meal:str) -> str:
+    lines = meal.splitlines()
 
-    title = f"{food[0]} [{food[1]}]"
-    food_string = "  • " + "\n  • ".join([re.sub(r'[0-9.()]', '', f) for f in food[2:] if re.sub(r'[0-9.()]', '', f) != ""])
-    
-    TimeInfo = food[0].split(".")
-    TimeInfo = f"{TimeInfo[0]}/{TimeInfo[1]}"
+    caption = lines[0]
+    foods = lines[1:]
 
-    return f"{food_string}", TimeInfo
+    month = caption[:caption.find('월')]
+    day = caption[caption.find('월 ')+2:caption.find('일')]
+    key = f"{month}/{day}"
+
+    result = []
+    skip = False
+    for food in foods:
+        if (skip): continue
+        if (food.startswith("상세페이지")): skip = True; continue
+        if ("(" in food):
+
+            index = food.rfind("(")
+            next = food[index+1]
+            if (next.isnumeric()): food = food[:index]
+
+        food = "  • " + food
+        result.append(food)
+
+    result = "\n".join(result)
+
+    return key, result
 
 def save(Return=False):
-    current = json.load(open(".\\DELU\\data\\meal.json", encoding='utf8'))
+    meals = get()
+    meals = [clean(m) for m in meals]
+    result = {pack[0]:pack[1] for pack in meals}
 
-    req = requests.get(url).text
-    soup = BeautifulSoup(req, 'html.parser')
-    foods = soup.find_all("div", "timeline_box")
+    with open(".\\DELU\\data\\meal.json", "w", encoding="utf8") as file:
+        json.dump(result, file, indent="\t", ensure_ascii=False)
 
-    for food in foods:
-        cleaned, TimeInfo = clean(food.text.split(" "))
-        current[TimeInfo] = cleaned
+    if (Return): return result
 
-    json.dump(current, open(".\\DELU\\data\\meal.json", 'w', encoding='utf8'), indent="\t", ensure_ascii=False)
-    if (Return): return current
 
 def load(TimeInfo, update:bool=False, NoneMSG:str="급식이 없거나 오류가 발생했습니다", again=False):
     if (update): meal = save(True)

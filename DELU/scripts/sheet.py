@@ -15,7 +15,7 @@ class spreadsheet:
             result = {}
 
             for i, work in enumerate(works[1:]):
-                if (result.get(date[i+1]) == None): result[date[i+1]] :list = [work]
+                if (result.get(date[i+1]) == None): result[date[i+1]] = [work]
                 else: result[date[i+1]].append(work)
 
             sheets[key] = result

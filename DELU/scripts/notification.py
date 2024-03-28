@@ -43,6 +43,7 @@ class notification:
             today_history = notification.notification_history.get(timetag, [])
 
             if (tag not in today_history):
+                print("!")
 
                 if (timetag not in notification.notification_history):  notification.notification_history[timetag] = [tag]
                 else: notification.notification_history[timetag].append(tag)

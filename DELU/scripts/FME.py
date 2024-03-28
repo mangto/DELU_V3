@@ -76,7 +76,7 @@ class FME:
 
 
             result = {}
-
+            shown = []
             for info in new:
                 time = info.get("date", None)
 
@@ -91,8 +91,12 @@ class FME:
                 author = info.get("author", "익명")
                 text = info.get("title", "알 수 없는 내용")
                 
+                if (text in shown): continue
+
                 if (time not in result): result[time] = ["  • " + text]
                 else: result[time].append("  • " + text)
+
+                shown.append(text)
             
             if (len(result) == 0): return "새로운 공지사항이 없습니다!"
 
@@ -130,7 +134,7 @@ class FME:
                 target = date(year, month, day)
                 diff = target-current
 
-                if (diff.days < 10):
+                if (0 <= diff.days < 10):
                     titles = '\n  • '+ '\n  • '.join(data[d])
                     d = d.split("/")
                     month = d[0] if len(d[0]) == 2 else "0"+d[0]
@@ -139,8 +143,8 @@ class FME:
 
                 continue
 
-
-            return "\n".join(notions)
+            if (notions != []): return "\n".join(notions)
+            else: return "과제가 없어요!"
 
         def dday(arg:list, kwargs:dict={}) -> str:
             current = datetime.now().date()
@@ -169,7 +173,7 @@ class FME:
                 date = f"{today.month}/{today.day}"
             
 
-            return meal.load(date, True)
+            return meal.load(date)
 
         def time(arg:list, kwargs:dict={}) -> str:
             return str(datetime.now())

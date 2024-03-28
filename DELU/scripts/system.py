@@ -40,8 +40,10 @@ class system:
                 time.sleep(1)
                 continue
 
-            meal.save()
-            news.load()
+            try: meal.save()
+            except: pass
+            try: news.load()
+            except: pass
             try: spreadsheet.update(sheets)
             except: pass
             system.LastUpdate = current
